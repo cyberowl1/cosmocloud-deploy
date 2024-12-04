@@ -1,5 +1,4 @@
 ---
-
 # Cosmocloud Deploy Helm Chart
 
 This repository contains a Helm chart (`cosmocloud-deploy`) to deploy a full application stack consisting of:
